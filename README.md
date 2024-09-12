@@ -1,2 +1,2 @@
 # ImageTransferBasedonNCA
-Image transfer based on Neural Cellular Automata Figure
+Data Repository for the manuscript "Image Style Transfer Based on Neural Cellular Automata" submitted to Applied Sciences (applsci-3227556)
